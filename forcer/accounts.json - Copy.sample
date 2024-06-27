@@ -1,0 +1,12 @@
+[
+    {
+        "username": "2020812@greatfieldsschool.com",
+        "password": "allah",
+        "proxy": "no"
+    },
+    {
+        "username": "Your Email 2",
+        "password": "Your Password 2",
+        "proxy": "http://user:pass@host2:port"
+    }
+]
